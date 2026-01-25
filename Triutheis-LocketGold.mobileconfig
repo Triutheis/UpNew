@@ -19,7 +19,7 @@
             ✔ Chặn Ads
             _Triutheis_</string>
             <key>PayloadDisplayName</key>
-            <string>Triutheis - Locket + Spotify</string>
+            <string>VIP</string>
             <key>PayloadOrganization</key>
             <string>Block Ads</string>
             <key>PayloadIdentifier</key>
@@ -45,7 +45,7 @@
             ✔ Up Locket Gold
             _Triutheis_</string>
             <key>PayloadDisplayName</key>
-            <string>Triutheis - Locket</string>
+            <string>Up - Locket</string>
             <key>PayloadOrganization</key>
             <string>No Block Ads</string>
             <key>PayloadIdentifier</key>
